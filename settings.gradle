@@ -1,0 +1,1 @@
+include ':app', ':module_user', ':module_message', ':module_home', ':module_login', ':module_shop', ':module_res', ':module_lib'
